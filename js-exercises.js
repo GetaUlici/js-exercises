@@ -5,7 +5,7 @@ function summ(a, b) {
   return a + b;
 }
 
-console.log("Test " + summ(2, 3));
+console.log('Test ' + summ(2, 3));
 
 /**
  * Create a function that takes a number as an argument, increments the number by 1
@@ -82,7 +82,7 @@ function hello(name) {
   return `Hi ${name}!`;
 }
 
-console.log(hello("Geta"));
+console.log(hello('Geta'));
 
 /**
  * Create a function that calculates the chance of being an imposter. The formula is 100x(i/p) where i is the imposter count and

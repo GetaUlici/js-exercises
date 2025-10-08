@@ -1,11 +1,10 @@
 # JavaScript Exercises
 
-This repository contains a collection of small JavaScript functions and exercises. 
-
+This repository contains a collection of small JavaScript functions and exercises.
 
 ## ⚙️ Requirements
 
-* [Node.js](https://nodejs.org/) 
+- [Node.js](https://nodejs.org/)
 
 You can verify your Node.js installation by running:
 
@@ -48,4 +47,3 @@ node js-exercises.js
 ```
 
 You’ll see the result printed in the console.
-
