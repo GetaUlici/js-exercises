@@ -1,0 +1,23 @@
+{
+  "name": "js-exercises",
+  "version": "1.0.0",
+  "description": "This repository contains a collection of small JavaScript functions and exercises.",
+  "main": "js-exercises.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "npx prettier --write . "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GetaUlici/js-exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GetaUlici/js-exercises/issues"
+  },
+  "homepage": "https://github.com/GetaUlici/js-exercises#readme",
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  }
+}
